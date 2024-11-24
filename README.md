@@ -9,3 +9,4 @@ We are going to create a stable that is
 
 Integration test with deploy script and unit test with your contract
 # Foundry-defi-stablecoin
+# Foundry-DeFi
